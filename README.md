@@ -1,4 +1,4 @@
 # odin-recipes
 
-Completed with HTML only.
+Completed with HTML only, so far.
 
